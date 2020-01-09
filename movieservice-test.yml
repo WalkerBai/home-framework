@@ -1,2 +1,6 @@
 server:
   port: 8033
+
+jwt:
+  name: key23
+  expire-time: 90
