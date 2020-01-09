@@ -1,2 +1,6 @@
 server:
   port: 8022
+
+jwt:
+  name: key1
+  expire-time: 40
