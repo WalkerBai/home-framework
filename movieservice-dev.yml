@@ -2,5 +2,5 @@ server:
   port: 8022
 
 jwt:
-  name: key1
+  name: test test
   expire-time: 40
